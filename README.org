@@ -1,0 +1,3 @@
+*  MCDT: Mail Composition, Templating, Distribution and Tracking
+
+** TODO Absorb ./ and its usage org-file.
